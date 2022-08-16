@@ -1,6 +1,8 @@
 Desafios - python
+Comissãovendas
 
 Uma empresa com 10 vendedores gostaria de automatizar o calculo de comissões.
 Para isso, precisa de um programa que calcule as comissões de acordo com a quantia de vendas de cada vendedor e retorne o valor. 
 Sendo que, de 1 á 19 produtos vendidos, a comissão é 10%. De 21 á 45, serão 15% de comissão e acima de 46 produtos, a comissão será de 20%. 
 Crie um programa que solucione o problema!
+
