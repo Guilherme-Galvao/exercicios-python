@@ -6,3 +6,11 @@ Para isso, precisa de um programa que calcule as comissões de acordo com a quan
 Sendo que, de 1 á 19 produtos vendidos, a comissão é 10%. De 21 á 45, serão 15% de comissão e acima de 46 produtos, a comissão será de 20%. 
 Crie um programa que solucione o problema!
 
+
+
+
+Tempodevida-fumante
+Escreva um programa para calcular a redução do tempo de vida de um fumante.
+Pergunte a quantidade de cigarros fumados por dia e quantos anos ele já fumou. 
+Considere que um fumante perde 10 minutos de vida a cada cigarro, 
+e calcule quantos dias de vida um fumante perderá. Exiba o total em dias.
