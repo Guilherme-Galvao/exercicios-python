@@ -1,6 +1,8 @@
 Desafios - python
-Comissãovendas
+Crie um programa que calcule a média das notas do aluno, e se menor que 50 - reprovado, entre 50 e 69 - recuperação. E 70 ou mais - aprovado.
 
+Comissãovendas
+ 
 Uma empresa com 10 vendedores gostaria de automatizar o calculo de comissões.
 Para isso, precisa de um programa que calcule as comissões de acordo com a quantia de vendas de cada vendedor e retorne o valor. 
 Sendo que, de 1 á 19 produtos vendidos, a comissão é 10%. De 21 á 45, serão 15% de comissão e acima de 46 produtos, a comissão será de 20%. 
